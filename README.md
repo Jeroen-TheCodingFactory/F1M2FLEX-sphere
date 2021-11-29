@@ -10,6 +10,7 @@ Bij het vak "CSS-Art" leer ik studenten in zo'n 6 weken kleine kunstwerkjes make
 3. Hoe een gradient van boven naar beneden (lichtere naar donkerdere kleur) een 3D-effect kan geven.
 4. Hoe 3. in combinatie met een schaduw (met filter gerealiseerd) nog meer de ilussie van 3D kan wekken. 
 5. Hoe een subtiele inset shadow samen met 3. en 4. de beleving en de illussie van 3D af kan maken. 
+6. Hoe een inset schaduw een "mooie rand" kan geven aan een element.
 
 ## Screenshots
 Vier screenshots van het eindproduct op desktop zijn hieronder te zien.
@@ -22,6 +23,9 @@ Vier screenshots van het eindproduct op desktop zijn hieronder te zien.
 
 ### Geelachtige kleur als basis
 ![Het gerealiseerde eindproduct op desktop: Een paarse 3D-sphere in HTML en CSS](https://sphere.css-art.nl/img/sphere--yellow.png "De gerealiseerde sphere op desktop met geelachtige kleuren")
+
+### Bruinachtige kleur als basis, met aangepaste schaduw
+![Het gerealiseerde eindproduct op desktop: Een bruine 3D-sphere in HTML en CSS](https://sphere.css-art.nl/img/sphere.png "De gerealiseerde sphere op desktop met bruinachtige kleuren")
 
 ### Paarsachtige kleur als basis
 ![Het gerealiseerde eindproduct op desktop: Een paarse 3D-sphere in HTML en CSS](https://sphere.css-art.nl/img/sphere.png "De gerealiseerde sphere op desktop met paarsachtige kleuren")
