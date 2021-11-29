@@ -1,5 +1,5 @@
 # Sphere
-![Het gerealiseerde eindproduct op desktop: Een paarse 3D-sphere in HTML en CSS](https://sphere.css-art.nl/img/sphere.png "De gerealiseerde sphere op desktop met paarse-achtige kleuren")
+![Het gerealiseerde eindproduct op desktop: Een paarse 3D-sphere in HTML en CSS](https://sphere.css-art.nl/img/sphere.png "De gerealiseerde sphere op desktop met paarsachtige kleuren")
 
 ## Intro
 Bij het vak "CSS-Art" leer ik studenten in zo'n 6 weken kleine kunstwerkjes maken in CSS-Art. Deze zijn meestal 2D. Vandaar een uitstapje naar 3D! Op deze site is een 3D-kunstwerkje te zien inclusief gradients en een schaduw, simpel aanpasbaar door variabelen te gebruiken in CSS. 
@@ -31,5 +31,5 @@ https://sphere.css-art.nl
 
 ## Resources 
 1. Tool voor het laten berekenen van lichtere en donkerdere varianten van een basiskleur => https://www.0to255.com/ 
-2. Site voor het uitkiezen van kleuren (voor de basis) => https://colorhunt.co/
-3. Introductie over Monochrome color pallets => https://www.vectornator.io/blog/monochromatic-colors 
+2. Site voor het uitkiezen van kleuren (basiskleur) => https://colorhunt.co/ 
+3. Introductie over Monochrome Color Pallets => https://www.vectornator.io/blog/monochromatic-colors 
