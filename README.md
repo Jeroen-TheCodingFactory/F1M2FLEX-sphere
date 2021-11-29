@@ -25,7 +25,7 @@ Vier screenshots van het eindproduct op desktop zijn hieronder te zien.
 ![Het gerealiseerde eindproduct op desktop: Een paarse 3D-sphere in HTML en CSS](https://sphere.css-art.nl/img/sphere--yellow.png "De gerealiseerde sphere op desktop met geelachtige kleuren")
 
 ### Bruinachtige kleur als basis, met aangepaste schaduw
-![Het gerealiseerde eindproduct op desktop: Een bruine 3D-sphere in HTML en CSS](https://sphere.css-art.nl/img/sphere.png "De gerealiseerde sphere op desktop met bruinachtige kleuren")
+![Het gerealiseerde eindproduct op desktop: Een bruine 3D-sphere in HTML en CSS](https://sphere.css-art.nl/img/sphere--brown.png "De gerealiseerde sphere op desktop met bruinachtige kleuren")
 
 ### Paarsachtige kleur als basis
 ![Het gerealiseerde eindproduct op desktop: Een paarse 3D-sphere in HTML en CSS](https://sphere.css-art.nl/img/sphere.png "De gerealiseerde sphere op desktop met paarsachtige kleuren")
