@@ -16,11 +16,13 @@ body{
     align-items: center;
     min-height: 100vh;
     background: #8052c8;
+    max-width: 100vw;
+    overflow:hidden;
 }
 
 .sphere3D{
     position: relative;
-    transform:scale(0.7);
+    transform:scale(0.6);
 }
 
 .sphere3D__sphere{
