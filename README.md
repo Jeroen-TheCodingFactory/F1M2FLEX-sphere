@@ -11,6 +11,7 @@ Bij het vak "CSS-Art" leer ik studenten in zo'n 6 weken kleine kunstwerkjes make
 4. Hoe 3. in combinatie met een schaduw (met filter gerealiseerd) nog meer de ilussie van 3D kan wekken. 
 5. Hoe een subtiele inset shadow samen met 3. en 4. de beleving en de illussie van 3D af kan maken. 
 6. Hoe een inset schaduw een "mooie rand" kan geven aan een element.
+7. Hoe een inner shadow met transparantie een soort donkere of lichtere laag over een element kan geven.
 
 ## Screenshots
 Vier screenshots van het eindproduct op desktop zijn hieronder te zien.
@@ -29,6 +30,12 @@ Vier screenshots van het eindproduct op desktop zijn hieronder te zien.
 
 ### Paarsachtige kleur als basis
 ![Het gerealiseerde eindproduct op desktop: Een paarse 3D-sphere in HTML en CSS](https://sphere.css-art.nl/img/sphere.png "De gerealiseerde sphere op desktop met paarsachtige kleuren")
+
+### Zwartachtige kleur als basis
+![Het gerealiseerde eindproduct op desktop: Een zwarte 3D-sphere in HTML en CSS](https://sphere.css-art.nl/img/sphere--black.png "De gerealiseerde sphere op desktop met zwartachtige kleuren")
+
+### Zwartachtige + Roodachtige kleur als basis + een geblurde inner schadow
+![Het gerealiseerde eindproduct op desktop: Een Rode 3D-sphere in HTML en CSS](https://sphere.css-art.nl/img/sphere--red-with-black.png "De gerealiseerde sphere op desktop met verschillende kleuren + een geblurde inner shadow")
 
 ## Live demo
 https://sphere.css-art.nl
